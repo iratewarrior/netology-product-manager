@@ -1,6 +1,6 @@
 ## О проекте
 
-сервис “Handleit”
+[сервис “Handleit”](https://github.com/iratewarrior/netology-product-manager/blob/main/Handleit_v2.pdf)
 
 Задачи: изучить нишу и потенциальных клиентов, Разработать MVP
 
